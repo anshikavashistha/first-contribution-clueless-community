@@ -1,5 +1,5 @@
 
-<h1 align='center'>Contribute and learn about the w</h1>
+<h1 align='center'>Contribute and learn more about the Open source community</h1>
 
 ----
 
@@ -11,7 +11,7 @@
 
 ## What would you have to do? 🤔
 
-+ [This](https://clueless.vercel.app/) is the website we have created for our first contributors, routing to the [contributors](https://clueless.vercel.app/allcontributors) page, you will see a few cards with some details of the contributor.
++ [This](https://clueless.vercel.app/) is the website which we have created for our first contributors, routing to the [contributors](https://clueless.vercel.app/allcontributors) page, where you will see  some cards with some details of the contributors.
 
 
 [![image](https://user-images.githubusercontent.com/77603501/194948359-810af94d-d89d-4b65-ae02-1a722bcf228e.png)](https://clueless.vercel.app/allcontributors)
@@ -19,13 +19,13 @@
 
 
 
-+ Now, to get your contributor card, you have to contribute to this repository, following our guidelines.
++ Now, to get your contributor card, you have to contribute to this repository, follow these guidelines :
 
 ## How to contribute? 🧐
 
-We recommend you to go through the [CONTRIBUTING.md](https://github.com/Clueless-Community/first-contribution/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
+We highly recommend our first contributors  to go through the [CONTRIBUTING.md](https://github.com/Clueless-Community/first-contribution/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution meaningful and in the correct way.
 
-Once the pull request is merged, you will find your awesome contribution card on our website.
+Once the pull request is merged, you will find your awesome contribution card which will be reflecting on our website.
 
 ## Need help? 
 We have an awesome Discord community where you can ask your doubts and we will be there for your help and even you can help others to make their contribution 🫂.
